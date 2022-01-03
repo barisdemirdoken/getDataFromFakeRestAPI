@@ -1,2 +1,7 @@
+# -getDataFromFakeRestAPI
+## PatikaDev React Odev1
+![sspic](image/ss.PNG)
+
+
+
 # getDataFromFakeRestAPI
-React Homework 1
